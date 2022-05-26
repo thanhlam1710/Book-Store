@@ -1,0 +1,135 @@
+:root {
+  --main-bg-color: #009d63;
+  --main-text-color: #009d63;
+  --second-text-color: #bbbec5;
+  --second-bg-color: #c1efde;
+}
+
+.primary-text {
+  color: var(--main-text-color);
+}
+
+.second-text {
+  color: var(--second-text-color);
+}
+
+.primary-bg {
+  background-color: var(--main-bg-color);
+}
+
+.secondary-bg {
+  background-color: var(--second-bg-color);
+}
+
+.rounded-full {
+  border-radius: 100%;
+}
+
+#wrapper {
+  overflow-x: hidden;
+  background-image: linear-gradient(
+    to right,
+    #aeb9b4,
+    #c2f5de,
+    #79cfaa,
+    #63f3bc,
+    #b8f3dc
+  );
+}
+
+.page-content-wrapper{
+  background: #ddfaef;
+}
+
+td{
+  text-align: justify;
+  overflow: hidden;
+}
+
+td img{
+  width: 200px;
+  height: 200px;
+}
+
+.form-sp{
+  border: none;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 12px;
+  width: 72%;
+  margin: 0px auto;
+}
+
+tr{
+  font-size: 19px;
+}
+
+.form-table{
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 12px;
+  padding: 10px;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  -webkit-transition: margin 0.25s ease-out;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+  width: 400px;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 12px;
+  background: rgb(218, 173, 89);
+}
+
+.list-group-flush>.list-group-item{
+  width: 400px;
+  font-size: 17px;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#page-content-wrapper {
+  min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  margin-left: 0;
+}
+
+#menu-toggle {
+  cursor: pointer;
+}
+
+.list-group-item {
+  border: none;
+  padding: 20px 30px;
+}
+
+.list-group-item.active {
+  background-color: transparent;
+  color: var(--main-text-color);
+  font-weight: bold;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -25rem;
+  }
+}

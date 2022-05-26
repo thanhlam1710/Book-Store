@@ -1,0 +1,263 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Lịch sử"
+    },
+    {
+      "id": 2,
+      "name": "Văn học"
+    },
+    {
+      "id": 3,
+      "name": "Nghệ thuật sống"
+    },
+    {
+      "id": 4,
+      "name": "Đời sống"
+    },
+    {
+      "id": 5,
+      "name": "Thiếu Nhi"
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "name": "207 Đề Và Bài Văn Hay 8",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_190362.jpg",
+      "price": "65.000",
+      "price_new": "46.800",
+      "detail": " Sản phẩm Laptop Aspire của Acer được khá nhiều sự lựa chọn bởi giá thành hấp dẫn và cũng rất được đầu tư vào chất lượng bên trong với các ổ mở rộng giúp người dùng có thể nâng cấp, cải tiến thiết bị của mình. Bộ xử lý với thế hệ mới nhất giúp người dùng dễ dàng đáp ứng các nhu cầu làm việc của cả nhân viên văn phòng cũng như sinh viên. Có một điểm được coi như là cải cách của dòng Aspire A514 trước đó với sự bổ sung card màn hình Nvidia GeForce.",
+      "cat_id": 1
+    },
+    {
+      "name": "Đọc Vị Bất Kỳ Ai (Tái Bản 2019)",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_195509_1_12542.jpg",
+      "price": "79.000",
+      "price_new": "63.200",
+      "detail": "Nitro 5 với thiết kế lớp vỏ vân Carbon mạnh mẽ kết hợp với bản lề màu đỏ nổi bật đậm chất gaming. Với việc Nitro 5 Carbon được trang bị tấm nền IPS giúp game thủ trải nghiệm game một cách tốt nhất.",
+      "cat_id": 1,
+      "id": 15
+    },
+    {
+      "name": "Bật Công Tắc Trái Tim - Love",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_195509_1_3735.jpg",
+      "price": "814.000",
+      "price_new": "730.000",
+      "detail": "Biti's Hunter Street được nâng tầm với ngôn ngữ thiết kế mới - táo bạo hơn. Phối màu trung tính chủ đạo giúp mẫu giày dễ dàng phối hợp với nhiều phong cách quần áo. Kết hợp cùng 2 lựa chọn cổ thấp và cổ cao. Biti's Hunter Street chắc chắn là sự lựa chọn của cá tính.",
+      "cat_id": "2",
+      "id": 16
+    },
+    {
+      "name": "Chú Thuật Hồi Chiến: Trường Chuyên Chú",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/c/h/chu-thuat-hoi-chien-_-tap-0---bia-1_2.jpg",
+      "price_new": "863.000",
+      "price": "932.000",
+      "detail": "Xuất hiện ở năm 2018 này, Corsair K70 RGB MK.2 SE là dòng K70 phiên bản đặc biệt cực kỳ đáng tiền cho các fan trung thành của Corsair. Sau 5 năm phát triển, Corsair K70 series đã đạt đến ngưỡng đỉnh cao qua rất nhiều những thay đổi nhỏ ở từng phiên bản mang tính nhận diện và đẳng cấp.",
+      "cat_id": "1",
+      "id": 18
+    },
+    {
+      "name": "Nhà Có 5 Nàng Dâu - Tập 5",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/n/h/nha-co-5-nang-dau---tap-5.jpg",
+      "price_new": "100.000",
+      "price": "167.000",
+      "detail": "Chuột gaming Logitech Pro Wireless LOL Series là phiên bản con chuột PRO đình đám đến từ hãng Logitech với thiết kế League of Legends biểu tượng của game Liên minh huyền thoại. Hãng đã phủ cho chuột bằng màu xanh ma thuật Hextech và màu vàng Kim Hextech để có thể truyền được cảm hứng cho người dùng khi sử dụng. Là lựa chọn rất tốt cho người chơi game.",
+      "cat_id": "3",
+      "id": 19
+    },
+    {
+      "name": "Trên Đỉnh Phố Wall (Tái Bản 2021)",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_230105.jpg",
+      "price_new": "1.000.000",
+      "price": "1.000",
+      "detail": "dsdsd",
+      "cat_id": "1",
+      "id": 20
+    },
+    {
+      "name": "Giàu Từ Chứng Khoán (Tái Bản 2021)",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_232601.jpg",
+      "price_new": "900.000",
+      "price": "961.000",
+      "detail": "fff",
+      "cat_id": "1",
+      "id": 22
+    },
+    {
+      "name": "Giàu Từ Chứng Khoán (Tái Bản 2021)",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_232601.jpg",
+      "price_new": "900.000",
+      "price": "961.000",
+      "detail": "fff",
+      "cat_id": "1",
+      "id": 23
+    },
+    {
+      "name": "Cà Phê Cùng Tony (Tái Bản 2017)",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/u/n/untitled-9_19.jpg",
+      "price": "63000",
+      "detail": "Cà Phê Cùng Tony\n\nCó đôi khi vào những tháng năm bắt đầu vào đời, giữa vô vàn ngả rẽ và lời khuyên, khi rất nhiều dự định mà thiếu đôi phần định hướng, thì CẢM HỨNG là điều quan trọng để bạn trẻ bắt đầu bước chân đầu tiên trên con đường theo đuổi giấc mơ của mình. Cà Phê Cùng Tony là tập hợp những bài viết của tác giả Tony Buổi Sáng. Đúng như tên gọi, mỗi bài nhẹ nhàng như một tách cà phê, mà bạn trẻ có thể nhận ra một chút gì của chính mình hay bạn bè mình trong đó: Từ chuyện lớn như định vị bản thân giữa bạn bè quốc tế, cho đến chuyện nhỏ như nên chú ý những phép tắc xã giao thông thường.\n\nChúng tôi tin rằng những người trẻ tuổi luôn mang trong mình khát khao vươn lên và tấm lòng hướng thiện, và có nhiều cách để động viên họ biến điều đó thành hành động. Nếu như tập sách nhỏ này có thể khơi gợi trong lòng bạn đọc trẻ một cảm hứng tốt đẹp, như tách cà phê thơm vào đầu ngày nắng mới, thì đó là niềm vui lớn của tác giả Tony Buổi Sáng.",
+      "cat_id": "3",
+      "id": 25
+    }
+  ],
+  "order": [
+    {
+      "customer_name": "Trần Lâm",
+      "customer_address": "14/14 Nguyễn Văn Lượng, P6, Quận Gò Vấp",
+      "customer_email": "nhatdoan@gmail.com",
+      "customer_phone": "0356144635",
+      "create_date": "2022-02-19",
+      "status": "Chờ xác nhận",
+      "id": 2
+    },
+    {
+      "customer_name": "Trần Lâm",
+      "customer_address": "Quận Gò Vấp",
+      "customer_email": "abc@gmail.com",
+      "customer_phone": "0356144635",
+      "create_date": "2022-02-24",
+      "status": "Chờ xác nhận",
+      "id": 3
+    },
+    {
+      "customer_name": "Trần Lâm",
+      "customer_address": "14/14 Nguyễn Văn Lượng, P6, Quận Gò Vấp",
+      "customer_email": "lam@gmail.com",
+      "customer_phone": "0356144635",
+      "create_date": "2022-02-24",
+      "status": "Chờ xác nhận",
+      "id": 4
+    }
+  ],
+  "order_details": [
+    {
+      "id": "1",
+      "order_id": "1",
+      "product_id": "1",
+      "quantity": "2",
+      "unti_price": "30000000"
+    },
+    {
+      "order_id": 21,
+      "product_id": 3,
+      "quantity": 1,
+      "unti_price": "65.000",
+      "id": "2"
+    },
+    {
+      "order_id": 21,
+      "product_id": 15,
+      "quantity": 1,
+      "unti_price": "79.000",
+      "id": "3"
+    },
+    {
+      "order_id": 21,
+      "product_id": 16,
+      "quantity": 1,
+      "unti_price": "814.000",
+      "id": "4"
+    },
+    {
+      "order_id": 22,
+      "product_id": 3,
+      "quantity": 1,
+      "unti_price": "65.000",
+      "id": "5"
+    },
+    {
+      "order_id": 22,
+      "product_id": 15,
+      "quantity": 1,
+      "unti_price": "79.000",
+      "id": "6"
+    },
+    {
+      "order_id": 22,
+      "product_id": 16,
+      "quantity": 1,
+      "unti_price": "814.000",
+      "id": "7"
+    },
+    {
+      "order_id": 23,
+      "product_id": 3,
+      "quantity": 3,
+      "unti_price": "65.000",
+      "id": "8"
+    },
+    {
+      "order_id": 23,
+      "product_id": 15,
+      "quantity": 2,
+      "unti_price": "79.000",
+      "id": "9"
+    },
+    {
+      "order_id": 23,
+      "product_id": 16,
+      "quantity": 1,
+      "unti_price": "814.000",
+      "id": "10"
+    },
+    {
+      "order_id": 24,
+      "product_id": 3,
+      "quantity": 3,
+      "unti_price": "65.000",
+      "id": "11"
+    },
+    {
+      "order_id": 24,
+      "product_id": 15,
+      "quantity": 2,
+      "unti_price": "79.000",
+      "id": "12"
+    },
+    {
+      "order_id": 3,
+      "product_id": 16,
+      "quantity": 1,
+      "unti_price": "814.000",
+      "id": "IqDQ_f5"
+    },
+    {
+      "order_id": 3,
+      "product_id": 15,
+      "quantity": 1,
+      "unti_price": "79.000",
+      "id": "pATRQum"
+    },
+    {
+      "order_id": 4,
+      "product_id": 16,
+      "quantity": 1,
+      "unti_price": "814.000",
+      "id": "Q_zj8GH"
+    },
+    {
+      "order_id": 4,
+      "product_id": 15,
+      "quantity": 1,
+      "unti_price": "79.000",
+      "id": "BMZg5VG"
+    },
+    {
+      "order_id": 4,
+      "product_id": 15,
+      "quantity": 1,
+      "unti_price": "79.000",
+      "id": "dsetN1s"
+    },
+    {
+      "order_id": 4,
+      "product_id": 3,
+      "quantity": 1,
+      "unti_price": "65.000",
+      "id": "ngaiFxc"
+    }
+  ]
+}
